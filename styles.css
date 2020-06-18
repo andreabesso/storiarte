@@ -23,7 +23,7 @@ nav ul li li:hover a{background: #000000; color: white;}
 .fotopost {
   height: 100px;
   width: 100px;
-  border: solid 5px #1abc9c;
+  border: solid 5px black;
 }
 .post-container{
 margin-bottom: 100px;
